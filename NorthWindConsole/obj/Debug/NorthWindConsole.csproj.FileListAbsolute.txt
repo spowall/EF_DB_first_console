@@ -1,0 +1,9 @@
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\NorthWindConsole.exe.config
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\NorthWindConsole.exe
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\NorthWindConsole.pdb
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\EntityFramework.dll
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\EntityFramework.xml
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\obj\Debug\NorthWindConsole.exe
+c:\users\cto\documents\visual studio 2017\Projects\NorthWindConsole\NorthWindConsole\obj\Debug\NorthWindConsole.pdb
